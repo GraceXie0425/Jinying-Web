@@ -1,4 +1,13 @@
+html{
+
+}
+
+body{
+  /* background color */
+  background: linear-gradient(45deg, background-color1, background-color2, white);
+}
 :root{
   /* light mode */
-  background-color: #EED1F1;
+  background-color1: #EED1F1;
+  background-color2: #FAEDF9;
 }
