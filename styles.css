@@ -6,6 +6,7 @@ html{
 body{
   /* background color */
   background: linear-gradient(to bottom, white, #FAEDF9, #EED1F1);
+  background-attachment: fixed;
 }
 :root{
   /* light mode */
