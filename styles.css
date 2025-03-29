@@ -4,7 +4,7 @@ html{
 
 body{
   /* background color */
-  background: linear-gradient(to bottom, white, background-color2, background-color1);
+  background: linear-gradient(to bottom, white, #FAEDF9, #EED1F1);
 }
 :root{
   /* light mode */
